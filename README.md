@@ -20,3 +20,44 @@ Apply SQL programming fundamentals to a real-world business problem
 
 <h3 align="left">Tools & Technologies</h3>
 SQL, MySQL
+
+
+
+
+
+
+ SQL Concepts Used
+
+This project demonstrates the use of:
+
+
+
+SELECT statements
+
+WHERE conditions
+
+ORDER BY
+
+GROUP BY
+
+Aggregate Functions
+
+SQL Functions
+
+CASE Statements
+
+Subqueries
+
+JOINs
+
+Data Filtering
+
+Data Sorting
+
+Data Aggregation
+
+Data Preparation
+
+Conditional Logic
+
+
