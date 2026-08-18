@@ -6,7 +6,7 @@ In this project, SQL programming fundamentals are applied to build an Employee P
 
 The project focuses on preparing and analyzing employee data to accurately map employees and track their performance. It covers key SQL concepts including data preparation, subqueries, functions, filtering, aggregation, and data analysis.
 
-Project Objectives
+<p align="left">Project Objectives</p>
 
 The main objectives of this project are to:
 
@@ -18,6 +18,6 @@ Identify high- and low-performing employees
 Use SQL to generate meaningful business insights
 Apply SQL programming fundamentals to a real-world business problem
 
-Tools & Technologies
+<p align="left">Tools & Technologies</p>
 SQL
 MySQL
