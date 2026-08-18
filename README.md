@@ -19,4 +19,4 @@ Use SQL to generate meaningful business insights
 Apply SQL programming fundamentals to a real-world business problem
 
 <h3 align="left">Tools & Technologies</h3>
-SQL MySQL
+SQL, MySQL
