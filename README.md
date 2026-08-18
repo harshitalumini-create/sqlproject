@@ -26,7 +26,7 @@ SQL, MySQL
 
 
 
- SQL Concepts Used
+ <h3 align="left">SQL Concept Used</h3>
 
 This project demonstrates the use of:
 
