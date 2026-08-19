@@ -85,7 +85,7 @@ DEPARTMENT, and EMP_RATING if the EMP_RATING is:
 3)between two and four 
 <img width="775" height="250" alt="image" src="https://github.com/user-attachments/assets/aaf6fccd-ae59-4591-9a95-3f5255dd8462" />
 
-
+For full query please download Employee performance mapping docx
 
 
 
