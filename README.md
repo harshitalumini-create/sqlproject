@@ -65,7 +65,7 @@ Conditional Logic
 <h3 align="left"> data_science_team</h3>
 <img width="415" height="288" alt="image" src="https://github.com/user-attachments/assets/d33b0006-ee89-4570-bcb3-bf4673b7afd9" />
 <h3 align="left">emp_record_table </h3>
-<img width="428" height="375" alt="image" src="https://github.com/user-attachments/assets/2f20709c-3d33-4274-aa3a-baa98ba7a9b8" />
+<img width="440" height="375" alt="image" src="https://github.com/user-attachments/assets/2f20709c-3d33-4274-aa3a-baa98ba7a9b8" />
 <h3 align="left">proj_table</h3>
 <img width="446" height="219" alt="image" src="https://github.com/user-attachments/assets/482abcf6-e460-42d8-8598-9b867beea8d9" />
 
