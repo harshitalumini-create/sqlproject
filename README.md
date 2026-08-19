@@ -78,6 +78,8 @@ DEPARTMENT from the employee record table, and make a list of employees
 and details of their department. 
 
 <img width="653" height="270" alt="image" src="https://github.com/user-attachments/assets/2eed2656-4480-429a-978b-d1b813ddd5c8" />
+
+
 Write a query to fetch EMP_ID, FIRST_NAME, LAST_NAME, GENDER, 
 DEPARTMENT, and EMP_RATING if the EMP_RATING is:
 1)less than two
