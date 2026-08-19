@@ -72,18 +72,18 @@ Conditional Logic
 <h2 align="left" >ER-Diagram </h2>
 <img width="369" height="721" alt="Screenshot_19-8-2026_73448_" src="https://github.com/user-attachments/assets/07c940d8-3a3e-4fc7-90e1-fb3706b56adc" />
 
-Some sql queries
+<h3>Some sql queries</h3>
 Write a query to fetch EMP_ID, FIRST_NAME, LAST_NAME, GENDER, and 
 DEPARTMENT from the employee record table, and make a list of employees 
 and details of their department. 
 
-<img width="753" height="370" alt="image" src="https://github.com/user-attachments/assets/2eed2656-4480-429a-978b-d1b813ddd5c8" />
+<img width="653" height="270" alt="image" src="https://github.com/user-attachments/assets/2eed2656-4480-429a-978b-d1b813ddd5c8" />
 Write a query to fetch EMP_ID, FIRST_NAME, LAST_NAME, GENDER, 
 DEPARTMENT, and EMP_RATING if the EMP_RATING is:
 1)less than two
 2)greater than four  
 3)between two and four 
-<img width="975" height="360" alt="image" src="https://github.com/user-attachments/assets/aaf6fccd-ae59-4591-9a95-3f5255dd8462" />
+<img width="775" height="360" alt="image" src="https://github.com/user-attachments/assets/aaf6fccd-ae59-4591-9a95-3f5255dd8462" />
 
 
 
