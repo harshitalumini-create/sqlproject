@@ -69,6 +69,8 @@ Conditional Logic
 <h3 align="left">proj_table</h3>
 <img width="446" height="219" alt="image" src="https://github.com/user-attachments/assets/482abcf6-e460-42d8-8598-9b867beea8d9" />
 
+<h2 align="left" >ER-Diagram </h2>
+<img width="369" height="721" alt="Screenshot_19-8-2026_73448_" src="https://github.com/user-attachments/assets/07c940d8-3a3e-4fc7-90e1-fb3706b56adc" />
 
 
 
