@@ -18,7 +18,7 @@ Identify high- and low-performing employees
 Use SQL to generate meaningful business insights
 Apply SQL programming fundamentals to a real-world business problem
 
-<h3 align="left">Tools & Technologies</h3>
+<h2 align="left">Tools & Technologies</h2>
 SQL, MySQL
 
 
@@ -26,7 +26,7 @@ SQL, MySQL
 
 
 
- <h3 align="left">SQL Concept Used</h3>
+ <h2 align="left">SQL Concept Used</h2>
 
 This project demonstrates the use of:
 
@@ -61,7 +61,8 @@ Data Preparation
 Conditional Logic
 
 
-<h3 align="left" >Database Schema </h3>
+<h2 align="left" >Database Schema </h2>
+<h2 align="left"> data_science_team</h2>
 
 
 
