@@ -83,7 +83,7 @@ DEPARTMENT, and EMP_RATING if the EMP_RATING is:
 1)less than two
 2)greater than four  
 3)between two and four 
-<img width="775" height="360" alt="image" src="https://github.com/user-attachments/assets/aaf6fccd-ae59-4591-9a95-3f5255dd8462" />
+<img width="775" height="180" alt="image" src="https://github.com/user-attachments/assets/aaf6fccd-ae59-4591-9a95-3f5255dd8462" />
 
 
 
